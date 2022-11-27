@@ -23,6 +23,8 @@ public class Main {
 
         // Alternative way with Switch Block
 
+        // toLowerCase would be useful here.
+
         char harf = 'A';
         //Enhanced Switch
         switch (harf) {
